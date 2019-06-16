@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ledzo
+Build-Jdk: 11.0.1
+Implementation-Title: th-cep-details
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.srmasset
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/th-cep-details
+Created-By: Maven Integration for Eclipse
+

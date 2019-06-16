@@ -1,0 +1,12 @@
+com\srmasset\business\impl\EnderecoServiceImpl.class
+com\srmasset\thcepdetails\ThCepDetailsApplication.class
+com\srmasset\business\EnderecoServiceConsumes.class
+srm\srmassset\pojos\PojoExample.class
+com\srmasset\thcepdetails\controller\EnderecoController.class
+com\srmasset\business\impl\EnderecoServiceConsumesImpl.class
+com\srmasset\factory\EntityFactory.class
+com\srmasset\business\ProcessRuleServices.class
+com\srmasset\business\EnderecoService.class
+srm\srmassset\pojos\Endereco.class
+srm\srmassset\pojos\ResponseDefault.class
+com\srmasset\thcepdetails\controller\HealthCheckController.class
